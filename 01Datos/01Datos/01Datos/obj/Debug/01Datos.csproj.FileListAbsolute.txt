@@ -1,0 +1,11 @@
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\bin\Debug\01Datos.exe.config
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\bin\Debug\01Datos.exe
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\bin\Debug\01Datos.pdb
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\01Datos.csprojAssemblyReference.cache
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\_01Datos.fmComandos.resources
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\_01Datos.fmDatos.resources
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\_01Datos.Properties.Resources.resources
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\01Datos.csproj.GenerateResource.cache
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\01Datos.csproj.CoreCompileInputs.cache
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\01Datos.exe
+C:\Users\Tomás\Documents\2 DAM\DI\Ejercicios\09BasesDeDatos\01Datos\01Datos\01Datos\obj\Debug\01Datos.pdb
